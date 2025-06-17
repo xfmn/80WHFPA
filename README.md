@@ -1,5 +1,7 @@
 # 80WHFPA
 80W Hi-Fi Power Amplifier
+<img src="https://github.com/xfmn/80WHFPA/blob/main/simulation_image_top.png">
+<img src="https://github.com/xfmn/80WHFPA/blob/main/simulation_image_bottom.png">
 Partlist exported from C:/Users/valen/Documents/EAGLE/projects/80W Amplifier/80W Hi-Fi Power Amplifier.sch at 24/06/2019 20:37
 
 Qty Value                  Device                 Package            Parts            Description                          DESIGNER MF    MPN        OC_FARNELL OC_NEWARK SPICEMODEL SPICEPREFIX VERSION
